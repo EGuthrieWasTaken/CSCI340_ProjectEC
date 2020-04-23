@@ -19,4 +19,4 @@ Running the program uses the following syntax:
 ./CSCI340_ProjectEC.out [batch_file]
 ```
 
-Note that this program will accept either no additional arguments which will cause the program to start in interactive mode, or a single argument may be specified. That argument must be the qualified path to a batch file containing commands to be run, one per line.
+Note that this program will accept either zero arguments which will cause the program to start in interactive mode, or a single argument may be specified. That argument must be the qualified path to a batch file containing commands to be run, one per line.
