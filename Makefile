@@ -1,4 +1,4 @@
-TARGET=CSCI340_ProjectEC.out
+TARGET=ccsh
 OBJECTS=CSCI340_ProjectEC.c
 
 CC=gcc

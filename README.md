@@ -15,8 +15,8 @@ make
 Running the program uses the following syntax:
 
 ```bash
-# Make sure you are in the same directory as CSCI340_ProjectEC.out
-./CSCI340_ProjectEC.out [batch_file]
+# Make sure you are in the same directory as ccsh
+./ccsh [batch_file]
 ```
 
 Note that this program will accept either zero arguments which will cause the program to start in interactive mode, or a single argument may be specified. That argument must be the qualified path to a batch file containing commands to be run, one per line.
