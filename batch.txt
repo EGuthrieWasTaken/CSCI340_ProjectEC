@@ -1,0 +1,4 @@
+ls -la
+pwd
+cd /home
+pwd & echo test
